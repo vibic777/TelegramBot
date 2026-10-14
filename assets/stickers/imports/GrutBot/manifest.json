@@ -1,0 +1,488 @@
+[
+  {
+    "holiday": "Новый год",
+    "phrase": "Клён поздравляет!",
+    "concept": "Праздничный образ Снегурочки",
+    "file": "new_year/01_snow_maiden.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "new_year/01_snow_maiden.svg"
+  },
+  {
+    "holiday": "Новый год",
+    "phrase": "Ёлка без меня не справилась.",
+    "concept": "Украшение ёлки",
+    "file": "new_year/02_tree.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "new_year/02_tree.svg"
+  },
+  {
+    "holiday": "Новый год",
+    "phrase": "Холодно? Я же дерево!",
+    "concept": "Мороженое в снегопад",
+    "file": "new_year/03_icecream.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "new_year/03_icecream.svg"
+  },
+  {
+    "holiday": "Новый год",
+    "phrase": "Подарок тебе. Ветку не жалко.",
+    "concept": "Подарки",
+    "file": "new_year/04_gift.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "new_year/04_gift.svg"
+  },
+  {
+    "holiday": "Новый год",
+    "phrase": "Какао? Клён одобряет.",
+    "concept": "Какао",
+    "file": "new_year/05_cocoa.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "new_year/05_cocoa.svg"
+  },
+  {
+    "holiday": "Новый год",
+    "phrase": "Снежок? Лови по-дружески!",
+    "concept": "Снежки",
+    "file": "new_year/06_snowball.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "new_year/06_snowball.svg"
+  },
+  {
+    "holiday": "Новый год",
+    "phrase": "За Новый год и новые ветви!",
+    "concept": "Праздничный бокал",
+    "file": "new_year/07_toast.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "new_year/07_toast.svg"
+  },
+  {
+    "holiday": "Новый год",
+    "phrase": "Кот, это моя ёлка.",
+    "concept": "Кот у ёлки",
+    "file": "new_year/08_cat_tree.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "new_year/08_cat_tree.svg"
+  },
+  {
+    "holiday": "Новый год",
+    "phrase": "Пусть год будет Клён!",
+    "concept": "Зимний фейерверк",
+    "file": "new_year/09_fireworks.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "new_year/09_fireworks.svg"
+  },
+  {
+    "holiday": "Рождество",
+    "phrase": "Светлого Рождества!",
+    "concept": "Звезда и свеча",
+    "file": "christmas/01_star_candle.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "christmas/01_star_candle.svg"
+  },
+  {
+    "holiday": "Рождество",
+    "phrase": "Украсил. Теперь держится.",
+    "concept": "Украшение ёлки",
+    "file": "christmas/02_tree.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "christmas/02_tree.svg"
+  },
+  {
+    "holiday": "Рождество",
+    "phrase": "Пряник? Я Клён.",
+    "concept": "Пряники",
+    "file": "christmas/03_gingerbread.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "christmas/03_gingerbread.svg"
+  },
+  {
+    "holiday": "Рождество",
+    "phrase": "Подарок от всего дерева.",
+    "concept": "Подарок",
+    "file": "christmas/04_gift.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "christmas/04_gift.svg"
+  },
+  {
+    "holiday": "Рождество",
+    "phrase": "Чай и тишина. Клён одобряет.",
+    "concept": "Чай у заснеженного окна",
+    "file": "christmas/05_tea_window.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "christmas/05_tea_window.svg"
+  },
+  {
+    "holiday": "Рождество",
+    "phrase": "Шар цел. Кот тоже.",
+    "concept": "Кот с ёлочным шаром",
+    "file": "christmas/06_cat_ball.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "christmas/06_cat_ball.svg"
+  },
+  {
+    "holiday": "Рождество",
+    "phrase": "Пусть в доме растёт добро.",
+    "concept": "Зимняя зелень и ягоды",
+    "file": "christmas/07_holly.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "christmas/07_holly.svg"
+  },
+  {
+    "holiday": "Рождество",
+    "phrase": "Огонёк для уюта.",
+    "concept": "Праздничный фонарь",
+    "file": "christmas/08_lantern.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "christmas/08_lantern.svg"
+  },
+  {
+    "holiday": "Рождество",
+    "phrase": "Зима — время крепких корней.",
+    "concept": "Прогулка по снегу",
+    "file": "christmas/09_walk.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "christmas/09_walk.svg"
+  },
+  {
+    "holiday": "8 марта",
+    "phrase": "С 8 марта! Расти и сияй!",
+    "concept": "Тюльпаны",
+    "file": "march_8/01_tulips.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "march_8/01_tulips.svg"
+  },
+  {
+    "holiday": "8 марта",
+    "phrase": "Цветы? Принёс. С горшком?",
+    "concept": "Торт",
+    "file": "march_8/02_cake.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "march_8/02_cake.svg"
+  },
+  {
+    "holiday": "8 марта",
+    "phrase": "Самый тёплый букет — тебе.",
+    "concept": "Мимоза и праздничный бокал",
+    "file": "march_8/03_mimosa_toast.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "march_8/03_mimosa_toast.svg"
+  },
+  {
+    "holiday": "8 марта",
+    "phrase": "Подарок ветвится!",
+    "concept": "Подарок",
+    "file": "march_8/04_gift.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "march_8/04_gift.svg"
+  },
+  {
+    "holiday": "8 марта",
+    "phrase": "Ты сегодня особенно расцветаешь!",
+    "concept": "Венок из цветов",
+    "file": "march_8/05_flower_wreath.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "march_8/05_flower_wreath.svg"
+  },
+  {
+    "holiday": "8 марта",
+    "phrase": "Поливаю — пусть всё цветёт.",
+    "concept": "Полив весенних цветов",
+    "file": "march_8/06_watering.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "march_8/06_watering.svg"
+  },
+  {
+    "holiday": "8 марта",
+    "phrase": "Мимоза, держись: Клён рядом.",
+    "concept": "Букет мимозы",
+    "file": "march_8/07_mimosa.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "march_8/07_mimosa.svg"
+  },
+  {
+    "holiday": "8 марта",
+    "phrase": "Сладкий день для тебя!",
+    "concept": "Кексы",
+    "file": "march_8/08_cupcakes.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "march_8/08_cupcakes.svg"
+  },
+  {
+    "holiday": "8 марта",
+    "phrase": "Весне — зелёный свет!",
+    "concept": "Корзина тюльпанов",
+    "file": "march_8/09_tulip_basket.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "march_8/09_tulip_basket.svg"
+  },
+  {
+    "holiday": "23 февраля",
+    "phrase": "С праздником! Я прикрою… тенью.",
+    "concept": "Подарок со звездой",
+    "file": "february_23/01_star_gift.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "february_23/01_star_gift.svg"
+  },
+  {
+    "holiday": "23 февраля",
+    "phrase": "Самолётик — почти космолёт!",
+    "concept": "Бумажный самолётик",
+    "file": "february_23/02_paper_plane.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "february_23/02_paper_plane.svg"
+  },
+  {
+    "holiday": "23 февраля",
+    "phrase": "Чай — мой щит от холода.",
+    "concept": "Чай и декоративный щит",
+    "file": "february_23/03_shield_tea.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "february_23/03_shield_tea.svg"
+  },
+  {
+    "holiday": "23 февраля",
+    "phrase": "Значок крепче коры.",
+    "concept": "Значок",
+    "file": "february_23/04_badge.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "february_23/04_badge.svg"
+  },
+  {
+    "holiday": "23 февраля",
+    "phrase": "Модель собрал. Почти.",
+    "concept": "Модель самолёта",
+    "file": "february_23/05_model_plane.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "february_23/05_model_plane.svg"
+  },
+  {
+    "holiday": "23 февраля",
+    "phrase": "Гвоздики — мирный привет.",
+    "concept": "Гвоздики",
+    "file": "february_23/06_carnations.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "february_23/06_carnations.svg"
+  },
+  {
+    "holiday": "23 февраля",
+    "phrase": "Клён на связи!",
+    "concept": "Дружеское приветствие",
+    "file": "february_23/07_greeting.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "february_23/07_greeting.svg"
+  },
+  {
+    "holiday": "23 февраля",
+    "phrase": "Печенье — стратегический запас.",
+    "concept": "Праздничное печенье",
+    "file": "february_23/08_cookie.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "february_23/08_cookie.svg"
+  },
+  {
+    "holiday": "23 февраля",
+    "phrase": "Шарф тёплый. Корни целы.",
+    "concept": "Шарф в подарок",
+    "file": "february_23/09_scarf_gift.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "february_23/09_scarf_gift.svg"
+  },
+  {
+    "holiday": "1 мая",
+    "phrase": "С праздником Весны и Труда!",
+    "concept": "Ручной молоток",
+    "file": "may_1/01_hammer.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "may_1/01_hammer.svg"
+  },
+  {
+    "holiday": "1 мая",
+    "phrase": "Молоток? По гвоздю аккуратно.",
+    "concept": "Кувалда",
+    "file": "may_1/02_sledgehammer.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "may_1/02_sledgehammer.svg"
+  },
+  {
+    "holiday": "1 мая",
+    "phrase": "Кувалда? Берегите корни.",
+    "concept": "Грабли",
+    "file": "may_1/03_rake.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "may_1/03_rake.svg"
+  },
+  {
+    "holiday": "1 мая",
+    "phrase": "Грабли — опасность для Клён.",
+    "concept": "Лопата",
+    "file": "may_1/04_shovel.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "may_1/04_shovel.svg"
+  },
+  {
+    "holiday": "1 мая",
+    "phrase": "Сажаем дерево. Я в теме!",
+    "concept": "Посадка дерева",
+    "file": "may_1/05_planting.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "may_1/05_planting.svg"
+  },
+  {
+    "holiday": "1 мая",
+    "phrase": "Каска есть, планы тоже.",
+    "concept": "Каска и ящик с инструментами",
+    "file": "may_1/06_helmet_tools.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "may_1/06_helmet_tools.svg"
+  },
+  {
+    "holiday": "1 мая",
+    "phrase": "Красим всё, кроме коры.",
+    "concept": "Малярный валик",
+    "file": "may_1/07_roller.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "may_1/07_roller.svg"
+  },
+  {
+    "holiday": "1 мая",
+    "phrase": "Урожай будет ветвистый!",
+    "concept": "Корзина овощей",
+    "file": "may_1/08_vegetables.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "may_1/08_vegetables.svg"
+  },
+  {
+    "holiday": "1 мая",
+    "phrase": "Инструменты готовы. Клён — почти.",
+    "concept": "Рабочие и садовые инструменты",
+    "file": "may_1/09_toolkit.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "may_1/09_toolkit.svg"
+  },
+  {
+    "holiday": "9 мая",
+    "phrase": "С Днём Победы. Помним.",
+    "concept": "Исторический Т-34 в музее или на параде",
+    "file": "may_9/01_t34.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "may_9/01_t34.svg"
+  },
+  {
+    "holiday": "9 мая",
+    "phrase": "Память жива.",
+    "concept": "Самолёт Ил-2 на выставке",
+    "file": "may_9/02_il2.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "may_9/02_il2.svg"
+  },
+  {
+    "holiday": "9 мая",
+    "phrase": "Вечная слава героям.",
+    "concept": "Катюша как музейный экспонат",
+    "file": "may_9/03_katyusha.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "may_9/03_katyusha.svg"
+  },
+  {
+    "holiday": "9 мая",
+    "phrase": "Цветы — тем, кто подарил нам мир.",
+    "concept": "Гвоздики с памятной лентой",
+    "file": "may_9/04_victory_carnations.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "may_9/04_victory_carnations.svg"
+  },
+  {
+    "holiday": "9 мая",
+    "phrase": "Мирного неба всем нам.",
+    "concept": "Цветы у Вечного огня",
+    "file": "may_9/05_eternal_flame.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "may_9/05_eternal_flame.svg"
+  },
+  {
+    "holiday": "9 мая",
+    "phrase": "Помним подвиг поколения победителей.",
+    "concept": "Памятная медаль",
+    "file": "may_9/06_medal.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "may_9/06_medal.svg"
+  },
+  {
+    "holiday": "9 мая",
+    "phrase": "С уважением и благодарностью.",
+    "concept": "Фотография ветерана",
+    "file": "may_9/07_veteran_photo.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "may_9/07_veteran_photo.svg"
+  },
+  {
+    "holiday": "9 мая",
+    "phrase": "Пока помним — связь поколений жива.",
+    "concept": "Мирный парад",
+    "file": "may_9/08_parade.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "may_9/08_parade.svg"
+  },
+  {
+    "holiday": "9 мая",
+    "phrase": "С Днём Победы.",
+    "concept": "Модель Т-34 с цветами",
+    "file": "may_9/09_t34_flowers.webp",
+    "format": "WebP, 512x512, transparent background",
+    "character": "Клён — оригинальный древесный инопланетянин с клёновой кроной",
+    "source": "may_9/09_t34_flowers.svg"
+  }
+]
